@@ -8,9 +8,10 @@ WORKDIR /site
 
 # Copy the Gemfile and Gemfile.lock into the image and run bundle install in a
 # way that will be cached
-ADD site/Gemfile Gemfile
-# ADD site/Gemfile.lock Gemfile.lock
-RUN touch Gemfile.lock
+ADD docs/Gemfile Gemfile
+ADD docs/Gemfile.lock Gemfile.lock
+
+# RUN touch Gemfile.lock
 RUN chmod a+w Gemfile.lock
 
 RUN bundle install
