@@ -9,8 +9,15 @@ layout: default
 
 <div class="details">
   <h1>{{ page.name }}</h1>
-  <small>{{ page.date | date: "%Y-%m-%d"}}</small>
-  {{content}}
+  Charged: <small>{{ page.date | date: "%Y-%m-%d"}}</small>
+  <br/>
+  Jurisdiction: <small>{{ page.jurisdiction }}</small>
+  <br/>
+  Links:
+  <br/>
+  <small>
+    {{content}}
+  </small>
 </div>
 
 {% if page.after %}
