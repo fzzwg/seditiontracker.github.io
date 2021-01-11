@@ -1,0 +1,29 @@
+markdown: kramdown
+permalink: /:slug/
+highlighter: rouge
+
+timezone: UTC
+
+kramdown:
+  auto_ids: true # Auto-generate ID's for headings
+  syntax_highlighter_opts:
+    disable: true
+
+exclude:
+  - config.ru
+  - Gemfile
+  - Gemfile.lock
+  - Procfile
+  - Rakefile
+  - README.md
+  - unicorn.rb
+  - vendor
+
+url: https://example.com
+theme: jekyll-theme-hacker
+
+extlinks:
+  attributes: {rel: nofollow, target: _blank}
+
+gems:
+  - jekyll-extlinks
