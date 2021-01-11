@@ -24,8 +24,6 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-hacker
-plugins:
-  - jekyll-feed
 
 repository: OG-Hunter/seditiontracker.github.io
 
