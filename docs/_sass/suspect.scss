@@ -1,0 +1,43 @@
+/* Container holding the image and the text */
+@media screen and (min-width: 320px) {
+  .image-container {
+    position: relative;
+    color: white;
+    font-size: calc(16px + 6 * ((100vw - 320px) / 680));
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+  }
+}
+@media screen and (min-width: 800px) {
+  .image-container {
+    position: relative;
+    color: white;
+    font-size: 3.2em;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+  }
+}
+
+/* Top left text */
+.top-left {
+  background: #e43;
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  padding: 5px;
+}
+
+.mugshot {
+  float: right;
+}
+
+.details {
+  float: left;
+}
+
+footer {
+  clear: both;
+  padding-top: 20px;
+}
