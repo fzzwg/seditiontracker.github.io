@@ -3,7 +3,7 @@ name: Eric Munchel
 status: Charged
 date: 2021-01-10
 jurisdiction: Federal
-before: zip-tie-guy.jpg
+before: 001.jpg
 after: eric-munchel.jpg
 layout: suspect
 ---

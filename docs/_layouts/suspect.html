@@ -3,15 +3,18 @@ layout: default
 ---
 
 <div class="image-container">
-  <img src="/images/before/{{page.before}}">
+  <img class="before" src="/images/before/{{page.before}}">
   <div class="top-left">{{page.status}}</div>
 </div>
 
 <div class="details">
-  <small>{{ page.date }}</small>
   <h1>{{ page.name }}</h1>
+  <small>{{ page.date | date: "%Y-%m-%d"}}</small>
   {{content}}
 </div>
 
-<img class="mugshot" src="/images/after/{{page.after}}">
-
+{% if page.after %}
+  <img class="mugshot" src="/images/after/{{page.after}}">
+{% else %}
+  <img class="mugshot" src="/images/after/mugshot.jpg">
+{% endif %}

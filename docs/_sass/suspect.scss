@@ -1,4 +1,8 @@
 /* Container holding the image and the text */
+img.before {
+  float: left;
+}
+
 @media screen and (min-width: 320px) {
   .image-container {
     position: relative;
@@ -34,6 +38,7 @@
 }
 
 .details {
+  padding: 20px;
   float: left;
 }
 
