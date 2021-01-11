@@ -7,3 +7,5 @@ _site/
 vendor
 .env
 node_modules
+.sass-cache
+.jekyll-metadata
