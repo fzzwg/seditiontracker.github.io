@@ -5,12 +5,32 @@
 layout: default
 ---
 
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://seditiontracker.com"
+    },
+    "headline": "se·​di·​tion: incitement of resistance to or insurrection against lawful authority",
+    "image": [
+      "https://seditiontracker.com/images/sedition-cover.jpg"
+     ],
+    "description": "Tracking law enforcement action against those accused of the failed January 6 coup attempt."
+  }
+</script>
+
 {% assign suspects = site.suspects | reverse %}
-{% for suspect in suspects limit: 5%}
-  <h2 class="listing">{{ suspect.name }}</h2>
+{% for suspect in suspects limit: 10 %}
+  <h2 class="listing">
+    <a href="{{suspect.url}}">{{ suspect.name }}</a>
+  </h2>
   <div class="image-container">
-    <img class="before" src="/images/before/{{suspect.before}}">
-    <div class="top-left">{{suspect.status}}</div>
+    <a href="{{suspect.url}}">
+      <img class="before" src="/images/before/{{suspect.before}}">
+      <div class="top-left">{{suspect.status}}</div>
+    </a>
   </div>
   <div class="details-link">
     <a href="{{suspect.url}}">More Details</a>

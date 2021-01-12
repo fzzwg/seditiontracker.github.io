@@ -24,6 +24,10 @@ img.before {
   }
 }
 
+.image-container a {
+  color: white;
+}
+
 /* Top left text */
 .top-left {
   background: #e43;
@@ -54,4 +58,9 @@ footer {
 
 .listing {
   padding-top: 20px;
+}
+
+h2 a {
+  text-decoration: none;
+  color: #b5e853;
 }
