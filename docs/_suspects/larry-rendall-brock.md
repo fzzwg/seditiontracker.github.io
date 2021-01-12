@@ -4,6 +4,7 @@ status: Charged
 date: 2021-01-09
 jurisdiction: Federal
 before: 002.jpg
+after: larry-rendall-brock.jpg
 layout: suspect
 title: Larry Rendall Brock charged on January 9, 2021
 image: https://seditiontracker.com/images/before/002.jpg
