@@ -10,7 +10,7 @@ before: 007.png
 after: william-watson.png
 layout: suspect
 title: William Watson charged on January 11, 2021
-image: https://seditiontracker.com/images/before/007.jpg
+image: https://seditiontracker.com/images/before/007.png
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: Sedition Tracker
 ---
