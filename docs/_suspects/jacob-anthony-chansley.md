@@ -8,6 +8,9 @@ jurisdiction: Federal
 before: 003.jpg
 after:
 layout: suspect
+title: Jacob Anthony Chansley charged on January 8, 2021
+image: https://seditiontracker.com/images/before/008.jpg
+description: Go to seditiontracker.com for more information on this case.
 ---
 
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-men-charged-connection-events-us-capitol)

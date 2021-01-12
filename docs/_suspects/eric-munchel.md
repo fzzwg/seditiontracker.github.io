@@ -6,6 +6,9 @@ jurisdiction: Federal
 before: 001.jpg
 after: eric-munchel.jpg
 layout: suspect
+title: Eric Munchel charged on January 10, 2021
+image: https://seditiontracker.com/images/before/001.jpg
+description: Go to seditiontracker.com for more information on this case.
 ---
 
 - [News Report](https://fox17.com/news/local/suspected-tennessee-man-who-stormed-the-us-capitol-arrested)

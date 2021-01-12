@@ -9,6 +9,9 @@ jurisdiction: Federal
 before: 005.jpg
 after: derek-evans.jpg
 layout: suspect
+title: Derek Evans charged on January 8, 2021
+image: https://seditiontracker.com/images/before/005.jpg
+description: Go to seditiontracker.com for more information on this case.
 ---
 
 - [News Report](https://apnews.com/article/donald-trump-legislature-crime-west-virginia-electoral-college-b883a7667add0cb54f01ce7ffaa73536)

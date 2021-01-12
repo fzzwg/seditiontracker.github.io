@@ -8,6 +8,9 @@ affiliations: Proud Boys
 jurisdiction: Federal
 before: 006.jpg
 layout: suspect
+title: Nicholas Ochs charged on January 7, 2021
+image: https://seditiontracker.com/images/before/007.jpg
+description: Go to seditiontracker.com for more information on this case.
 ---
 
 - [News Report](https://nypost.com/2021/01/09/proud-boys-leader-nicholas-ochs-arrested-for-seen-smoking-inside-capitol-during-riots-arrested/)
