@@ -8,6 +8,9 @@ jurisdiction: Federal
 before: 004.jpg
 after: adam-johnson.png
 layout: suspect
+title: Adam Johnson charged on 2021-01-07
+description: "Sedition Tracker: Tracking those accused by the government of participating in the seditious riots at the Capitol"
+image: https://seditiontracker.com/images/before/004.jpg
 ---
 
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-men-charged-connection-events-us-capitol)

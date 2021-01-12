@@ -2,30 +2,12 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
+seo.type: website
 layout: default
+title: "Sedition Tracker"
+description: "Tracking law enforcement action against those accused of participating in the failed January 6 coup attempt."
+image: https://seditiontracker.com/images/sedition-cover.jpg
 ---
-
-<meta property="og:url" content="https://seditiontracker.com" />
-<meta property="og:type" content="website" />
-<meta property="og:title" content="Sedition Tracker" />
-<meta property="og:description" content="Tracking law enforcement action against those accused of the failed January 6 coup attempt." />
-<meta property="og:image:securel_url" content="https://seditiontracker.com/images/sedition-cover.jpg" />
-
-<script type="application/ld+json">
-  {
-    "@context": "http://schema.org",
-    "@type": "NewsArticle",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://seditiontracker.com"
-    },
-    "headline": "se·​di·​tion: incitement of resistance to or insurrection against lawful authority",
-    "image": [
-      "https://seditiontracker.com/images/sedition-cover.jpg"
-     ],
-    "description": "Tracking law enforcement action against those accused of the failed January 6 coup attempt."
-  }
-</script>
 
 {% assign suspects = site.suspects | reverse %}
 {% for suspect in suspects limit: 10 %}

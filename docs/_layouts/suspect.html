@@ -1,39 +1,7 @@
 ---
+seo.type: article
 layout: default
 ---
-
-<meta property="og:url" content="https://seditiontracker.com" />
-<meta property="og:type" content="article" />
-<meta property="og:title" content="{{ page.name }} | {{ page.status }}" />
-<meta property="og:description" content="{{ page.status }} on {{ page.date | date: "%Y-%m-%d" }}. Check out seditiontracker.com for more details." />
-<meta property="og:image:secure_url" content="https://seditiontracker.com/images/before/{{page.before}}" />
-
-<script type="application/ld+json">
-  {
-    "@context": "http://schema.org",
-    "@type": "NewsArticle",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "{{ site.url }}{{ page.url }}"
-    },
-    "headline": "{{ page.name }} | {{ page.status }}",
-    "image": [
-      "https://seditiontracker.com/images/before/{{page.before}}"
-     ],
-    "datePublished": "{{ page.date | date: '%Y-%m-%dT%H:%M:%S+05:00' }}",
-    "dateModified": "{{ page.date | date: '%Y-%m-%dT%H:%M:%S+05:00' }}",
-    "author": {
-      "@type": "Organization",
-      "name": "Sedition Tracker"
-    },
-    "publisher": {
-     "@type": "Organization",
-     "name": "Sedition Tracker"
-    },
-    "description": "{{ page.status }} on {{ page.date | date: "%Y-%m-%d" }}. Check out seditiontracker.com for more details."
-  }
-</script>
-
 <div class="image-container">
   <img class="before" src="/images/before/{{page.before}}">
   <div class="top-left">{{page.status}}</div>
