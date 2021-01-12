@@ -10,7 +10,7 @@ after:
 layout: suspect
 title: Jacob Anthony Chansley charged on January 8, 2021
 image: https://seditiontracker.com/images/before/008.jpg
-description: Click for case details. Suspects considered innocent until proven guilty.
+description: Click for latest case details. Suspects considered innocent until proven guilty.
 ---
 
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-men-charged-connection-events-us-capitol)
