@@ -10,7 +10,7 @@ after: adam-johnson.png
 layout: suspect
 title: Adam Johnson charged on January 7, 2021
 image: https://seditiontracker.com/images/before/004.jpg
-description: Go to seditiontracker.com for more information on this case.
+description: Click for case details. Suspects considered innocent until proven guilty.
 ---
 
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/three-men-charged-connection-events-us-capitol)

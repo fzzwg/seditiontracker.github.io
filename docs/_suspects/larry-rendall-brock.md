@@ -7,7 +7,7 @@ before: 002.jpg
 layout: suspect
 title: Larry Rendall Brock charged on January 9, 2021
 image: https://seditiontracker.com/images/before/002.jpg
-description: Go to seditiontracker.com for more information on this case.
+description: Click for case details. Suspects considered innocent until proven guilty.
 ---
 
 - [News Report](https://www.nbcdfw.com/news/local/fbi-arrests-grapevine-man-photographed-in-tactical-gear-on-us-senate-floor/2524718/)

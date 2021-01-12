@@ -10,7 +10,7 @@ before: 006.jpg
 layout: suspect
 title: Nicholas Ochs charged on January 7, 2021
 image: https://seditiontracker.com/images/before/007.jpg
-description: Click for case details. Suspects are innocent until proven guilty.
+description: Click for case details. Suspects considered innocent until proven guilty.
 ---
 
 - [News Report](https://nypost.com/2021/01/09/proud-boys-leader-nicholas-ochs-arrested-for-seen-smoking-inside-capitol-during-riots-arrested/)
