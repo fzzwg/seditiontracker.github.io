@@ -17,9 +17,9 @@ title: Sedition Tracker
 email: your-email@example.com
 description: "se·​di·​tion: incitement of resistance to or insurrection against lawful authority"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: seditiontracker
-github_username:  jekyll
+url: "https://seditiontracker.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: seditiontrack
+github_username:  seditiontracker
 
 # Build settings
 markdown: kramdown
