@@ -9,6 +9,14 @@ layout: default
 
 <div class="details">
   <h1>{{ page.name }}</h1>
+  {% if page.residence %}
+    Residence: <small>{{ page.residence }}</small>
+    <br/>
+  {% endif %}
+  {% if page.occupation %}
+    Occupation: <small>{{ page.occupation }}</small>
+    <br/>
+  {% endif %}
   Charged: <small>{{ page.date | date: "%Y-%m-%d"}}</small>
   <br/>
   Jurisdiction: <small>{{ page.jurisdiction }}</small>

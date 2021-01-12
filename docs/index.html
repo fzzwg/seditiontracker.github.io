@@ -5,7 +5,8 @@
 layout: default
 ---
 
-{% for suspect in site.suspects %}
+{% assign suspects = site.suspects | reverse %}
+{% for suspect in suspects limit: 5%}
   <h2 class="listing">{{ suspect.name }}</h2>
   <div class="image-container">
     <img class="before" src="/images/before/{{suspect.before}}">
