@@ -9,6 +9,7 @@ layout: suspect
 title: Eric Munchel charged on January 10, 2021
 image: https://seditiontracker.com/images/before/001.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
+author: Sedition Tracker
 ---
 
 - [News Report](https://fox17.com/news/local/suspected-tennessee-man-who-stormed-the-us-capitol-arrested)
