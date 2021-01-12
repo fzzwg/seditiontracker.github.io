@@ -8,4 +8,6 @@ layout: suspect
 ---
 
 - [News Report](https://www.nbcdfw.com/news/local/fbi-arrests-grapevine-man-photographed-in-tactical-gear-on-us-senate-floor/2524718/)
-- [Affidavit](https://bit.ly/3nwc5vL)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-men-charged-connection-events-us-capitol)
+- [Complaint](https://www.justice.gov/usao-dc/press-release/file/1352016/download)
+- [Affadavit](https://www.justice.gov/usao-dc/press-release/file/1352026/download)

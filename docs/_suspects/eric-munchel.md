@@ -9,5 +9,6 @@ layout: suspect
 ---
 
 - [News Report](https://fox17.com/news/local/suspected-tennessee-man-who-stormed-the-us-capitol-arrested)
-- [Affidavit](https://bit.ly/3scX713)
-- [Criminal Complaint](https://bit.ly/2LqTGTT)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-men-charged-connection-events-us-capitol)
+- [Affidavit](https://www.justice.gov/usao-dc/press-release/file/1352221/download)
+- [Criminal Complaint](https://www.justice.gov/usao-dc/press-release/file/1352226/download)
