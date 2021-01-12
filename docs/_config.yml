@@ -19,8 +19,10 @@ description: "se·​di·​tion: incitement of resistance to or insurrection ag
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://seditiontracker.com" # the base hostname & protocol for your site, e.g. http://example.com
 title_image: https://seditiontracker.com/images/sedition-cover.jpg
-twitter_username: seditiontrack
-github_username:  seditiontracker
+
+twitter:
+  username: seditiontrack
+  card: summary_large_image
 
 # Build settings
 markdown: kramdown
