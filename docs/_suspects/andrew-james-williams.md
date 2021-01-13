@@ -11,7 +11,7 @@ before: 010.webp
 after: andrew-james-williams-court.jpg
 layout: suspect
 title: Andrew James Williams charged on January 11, 2020
-image: https://seditiontracker.com/images/preview/[id].jpg
+image: https://seditiontracker.com/images/preview/010.webp
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 ---
