@@ -9,7 +9,7 @@ jurisdiction: Federal
 before: 006.jpg
 layout: suspect
 title: Nicholas Ochs charged on January 7, 2021
-image: https://seditiontracker.com/images/before/006.jpg
+image: https://seditiontracker.com/images/preview/006.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: Sedition Tracker
 ---

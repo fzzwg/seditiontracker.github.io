@@ -7,7 +7,7 @@ before: 002.jpg
 after: larry-rendall-brock.jpg
 layout: suspect
 title: Larry Rendall Brock charged on January 9, 2021
-image: https://seditiontracker.com/images/before/002.jpg
+image: https://seditiontracker.com/images/preview/002.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: Sedition Tracker
 ---

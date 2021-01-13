@@ -9,7 +9,7 @@ before: 003.jpg
 after:
 layout: suspect
 title: Jacob Anthony Chansley charged on January 8, 2021
-image: https://seditiontracker.com/images/before/003.jpg
+image: https://seditiontracker.com/images/preview/003.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: Sedition Tracker
 ---

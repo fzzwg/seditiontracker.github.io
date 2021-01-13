@@ -10,7 +10,7 @@ before: 005.jpg
 after: derek-evans.jpg
 layout: suspect
 title: Derek Evans charged on January 8, 2021
-image: https://seditiontracker.com/images/before/005.jpg
+image: https://seditiontracker.com/images/preview/005.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: Sedition Tracker
 ---

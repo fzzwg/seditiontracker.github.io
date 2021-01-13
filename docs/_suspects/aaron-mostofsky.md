@@ -9,7 +9,7 @@ before: 008.jpg
 after: aaron-mostofsky.png
 layout: suspect
 title: Aaron Mostofsky charged on January 11, 2021
-image: https://seditiontracker.com/images/before/008.jpg
+image: https://seditiontracker.com/images/preview/008.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: Sedition Tracker
 ---
