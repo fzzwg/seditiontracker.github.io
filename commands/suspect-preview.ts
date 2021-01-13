@@ -19,15 +19,15 @@ for (const suspect of suspects) {
 
   const boxWidth = (function(status) {switch (status) {
       case "CHARGED":
-        return 355;
+        return 165;
       case "INDICTED":
-        return 405;
+        return 200;
       default:
-        return 400;
+        return 200;
     }
   })(status)
 
-  execSync(`convert docs/images/before/${image} -resize 1200x -strokewidth 3 -fill red -draw "rectangle 0,0 ${boxWidth},100" -fill white -strokewidth 3 -fill white -stroke black -strokewidth 10 -pointsize 72 -font Courier-Bold -draw "text 25,65 '${status}'" -stroke none -draw "text 25,65 '${status}'" docs/images/preview/${image}`, {
+  execSync(`convert docs/images/cropped/${image} -crop 600x335+0+0 -strokewidth 3 -fill red -draw "rectangle 0,0 ${boxWidth},50" -fill white -strokewidth 3 -fill white -stroke black -strokewidth 10 -pointsize 32 -font Courier-Bold -draw "text 15,35 '${status}'" -stroke none -draw "text 15,35 '${status}'" docs/images/preview/${image}`, {
     stdio: 'inherit'
   })
 }

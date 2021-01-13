@@ -10,7 +10,7 @@ image: https://seditiontracker.com/images/sedition-cover.jpg
 ---
 
 {% assign suspects = site.suspects | reverse %}
-{% for suspect in suspects limit: 10 %}
+{% for suspect in suspects limit: 20 %}
   <h2 class="listing">
     <a href="{{suspect.url}}">{{ suspect.name }}</a>
   </h2>
