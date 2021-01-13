@@ -1,5 +1,5 @@
 ```
 yarn install
 yarn docker:build
-yarn preview
+yarn jekyll
 ```
