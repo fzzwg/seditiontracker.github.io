@@ -56,7 +56,7 @@ const newSuspect = async() => {
   const action = result.status.toLowerCase();
 
   let data = template.replace(/\[name]/g, result.name,);
-  data = data.replace("[dash-name]", name);
+  data = data.replace("[dashName]", name);
   data = data.replace("[residence]", result.residence);
   data = data.replace("[status]", result.status);
   data = data.replace("[age]", result.age);
