@@ -52,7 +52,7 @@ const newSuspect = async() => {
   const date = Date.parse(result.date);
   const options = { year: 'numeric', month: 'long', day: 'numeric' };
   const dateFormat = new Intl.DateTimeFormat('en-US', options).format(date)
-  const name = result.name.replace(" ", "-").toLowerCase();
+  const name = result.name.replace(/\s/g, "-").toLowerCase();
   const action = result.status.toLowerCase();
 
   let data = template.replace(/\[name]/g, result.name,);
