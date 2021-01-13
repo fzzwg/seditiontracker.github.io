@@ -5,6 +5,7 @@ residence: [residence]
 status: [status]
 date: [date]
 age: [age]
+occupation:
 affiliations:
 jurisdiction: Federal
 before: [id]
@@ -13,6 +14,7 @@ layout: suspect
 title: [name] [action] on [longDate]
 image: https://seditiontracker.com/images/preview/[id].jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
+quote:
 author: seditiontrack
 ---
 
