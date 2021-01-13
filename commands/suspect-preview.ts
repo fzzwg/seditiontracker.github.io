@@ -4,8 +4,8 @@ import fs from "fs";
 import { readFile } from "./common/file";
 const { execSync } = require('child_process')
 
-const spec = new Command();
-spec.parse(process.argv);
+const preview = new Command();
+preview.parse(process.argv);
 
 info("creating preview images");
 
