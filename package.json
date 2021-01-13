@@ -21,7 +21,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "yarn suspect preview"
+      "pre-commit": "yarn suspect preview && git add docs/images/preview"
     }
   },
   "prettier": {
