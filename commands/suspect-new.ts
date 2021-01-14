@@ -51,7 +51,7 @@ const newSuspect = async() => {
   const result = await inquirer.prompt(questions)
   const date = Date.parse(result.date);
   const options = { year: 'numeric', month: 'long', day: 'numeric' };
-  const dateFormat = new Intl.DateTimeFormat('en-US', options).format(date)
+  const dateFormat = new Intl.DateTimeFormat('en-UK', options).format(date)
   const name = result.name.replace(/\s/g, "-").toLowerCase();
   const action = result.status.toLowerCase();
 

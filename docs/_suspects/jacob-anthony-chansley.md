@@ -1,6 +1,6 @@
 ---
 name: Jacob Anthony Chansley
-aka: Jake Angeli
+aka: Jake Angeli, Q Shaman
 status: Charged
 date: 2021-01-08
 residence: Arizona
