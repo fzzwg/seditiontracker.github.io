@@ -19,3 +19,4 @@ author: seditiontrack
 ---
 
 - [News Report](https://www.nytimes.com/2021/01/14/us/Kevin-Seefried-arrested.html)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-delaware-men-charged-federal-court-following-events-united-states-capitol)
