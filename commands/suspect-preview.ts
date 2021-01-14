@@ -27,7 +27,7 @@ for (const suspect of suspects) {
     }
   })(status)
 
-  execSync(`convert docs/images/cropped/${image} -strokewidth 3 -fill red -draw "rectangle 10,10 ${boxWidth},50" -fill white -strokewidth 3 -fill white -stroke black -strokewidth 10 -pointsize 32 -font Courier-Bold -draw "text 20,40 '${status}'" -stroke none -draw "text 20,40 '${status}'" docs/images/preview/${image}`, {
+  execSync(`convert docs/images/cropped/${image} -strokewidth 3 -fill red -draw "rectangle 20,10 ${boxWidth},50" -fill white -strokewidth 3 -fill white -stroke black -strokewidth 10 -pointsize 32 -font Courier-Bold -draw "text 25,40 '${status}'" -stroke none -draw "text 25,40 '${status}'" docs/images/preview/${image}`, {
     stdio: 'inherit'
   })
 }
