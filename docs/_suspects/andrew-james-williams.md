@@ -7,11 +7,11 @@ date: 2021-01-12
 age:
 occupation: Fire Fighter
 jurisdiction: Federal
-before: 010.webp
+before: 010.jpg
 after: andrew-james-williams-court.jpg
 layout: suspect
 title: Andrew James Williams charged on January 12, 2020
-image: https://seditiontracker.com/images/preview/010.webp
+image: https://seditiontracker.com/images/preview/010.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
 author: seditiontrack
 ---
