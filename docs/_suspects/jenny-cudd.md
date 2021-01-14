@@ -17,6 +17,5 @@ author: seditiontrack
 quote: "I walked through an open door into the Capitol along with several hundred other people"
 ---
 
-- [News Report](https://www.cbs7.com/2021/01/13/first-on-cbs7-fbi-arrests-jenny-cudd-for-rioting-at-capitol/
-)
-- [Self Incrimination](https://www.cbs7.com/2021/01/13/first-on-cbs7-fbi-arrests-jenny-cudd-for-rioting-at-capitol/)
+- [News Report](https://www.cbs7.com/2021/01/13/first-on-cbs7-fbi-arrests-jenny-cudd-for-rioting-at-capitol/)
+- [Self Incrimination](https://twitter.com/JoshuaSkinnerTV/status/1349395279179558914?s=20)
