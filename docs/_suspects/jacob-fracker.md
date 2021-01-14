@@ -9,7 +9,7 @@ occupation: Police Officer (Sergeant)
 affiliations: Rocky Mount Police Department
 jurisdiction: Federal
 before: 018.jpg
-after: jacob-fracker
+after:
 layout: suspect
 title: Jacob Fracker charged on January 13, 2021
 image: https://seditiontracker.com/images/preview/018.jpg
