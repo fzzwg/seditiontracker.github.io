@@ -72,11 +72,11 @@ const newSuspect = async() => {
   data = data.replace("[mugShot]", mugShot);
   data = data.replace("[residence]", result.residence);
   data = data.replace("[status]", result.status);
-  data = data.replace("[age]", result.age);
+  data = data.replace("[age]", result.age ? result.age : "");
   data = data.replace("[date]", result.date);
   data = data.replace("[longDate]", dateFormat);
   data = data.replace("[action]", action);
-  data = data.replace("[id]", id);
+  data = data.replace(/\[id]/g, id);
 
   if (!result.arrested) {
     data = data.replace("published: true", "published: false")
