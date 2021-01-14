@@ -5,7 +5,7 @@ residence: Illinois
 status: Charged
 date: 2021-01-07
 age: 52
-occupation:
+occupation: CEO
 affiliations:
 jurisdiction: Federal
 before: 027.jpg
