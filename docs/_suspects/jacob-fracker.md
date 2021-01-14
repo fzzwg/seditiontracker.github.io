@@ -5,7 +5,7 @@ residence: Virginia
 status: Charged
 date: 2021-01-13
 age: 29
-occupation: Police Officer (Sergeant)
+occupation: Police Officer
 affiliations: Rocky Mount Police Department
 jurisdiction: Federal
 before: 018.jpg
@@ -20,3 +20,4 @@ author: seditiontrack
 
 - [News Report](https://roanoke.com/news/local/2-rocky-mount-police-officers-who-were-in-capitol-during-riot-face-federal-charges/article_756e0a1a-55c9-11eb-aac5-23258d074867.html)
 - [DOJ Press Release](https://www.justice.gov/usao-dc/pr/two-duty-virginia-police-officers-charged-federal-court-following-events-us-capitol)
+- [Criminal Complaint](https://big.assets.huffingtonpost.com/athena/files/2021/01/13/5fff56a5c5b6c77d85ec811b.pdf)
