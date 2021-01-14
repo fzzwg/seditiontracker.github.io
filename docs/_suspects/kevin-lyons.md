@@ -20,4 +20,4 @@ published: true
 ---
 
 - [News Report: Arrest](https://chicago.suntimes.com/2021/1/13/22229436/chicago-man-facing-federal-charges-following-last-weeks-u-s-capitol-riot)
-- [Complaint](https://www.chicagotribune.com/news/criminal-justice/ct-kevin-lyons-criminal-complaint-20210113-4dvhuyfqbbcxvllazn2rmeg4qi-htmlstory.html#nt=interstitial-manual)
+- [Complaint](https://cdn.vox-cdn.com/uploads/chorus_asset/file/22233841/Lyons_complaint__DCD_.pdf)
