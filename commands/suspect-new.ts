@@ -35,6 +35,12 @@ const newSuspect = async() => {
       message: "Residence"
     },
     {
+      type: "confirm",
+      name: "arrested",
+      message: "Arrested",
+      default: true
+    },
+    {
       type: "input",
       name: "date",
       message: "Date (YYYY-MM-DD)"
@@ -45,18 +51,25 @@ const newSuspect = async() => {
       choices: ["Charged", "Indicted"],
       message: "Status",
     },
+    {
+      type: "confirm",
+      name: "mugshot",
+      message: "Mugshot available",
+      default: false
+    }
   ]
 
   const template = readFile("./commands/common/template.md");
   const result = await inquirer.prompt(questions)
-  const date = Date.parse(result.date);
+  const date = Date.parse(`${result.date}T05:00`);
   const options = { year: 'numeric', month: 'long', day: 'numeric' };
-  const dateFormat = new Intl.DateTimeFormat('en-UK', options).format(date)
-  const name = result.name.replace(/\s/g, "-").toLowerCase();
+  const dateFormat = new Intl.DateTimeFormat('en-US', options).format(date)
+  const dashName = result.name.replace(/\s/g, "-").toLowerCase();
+  const mugShot = result.mugshot ? dashName : ""
   const action = result.status.toLowerCase();
 
   let data = template.replace(/\[name]/g, result.name,);
-  data = data.replace("[dashName]", name);
+  data = data.replace("[mugShot]", mugShot);
   data = data.replace("[residence]", result.residence);
   data = data.replace("[status]", result.status);
   data = data.replace("[age]", result.age);
@@ -65,7 +78,11 @@ const newSuspect = async() => {
   data = data.replace("[action]", action);
   data = data.replace("[id]", id);
 
-  fs.writeFileSync(`./docs/_suspects/${name}.md`, data.toString());
+  if (!result.arrested) {
+    data = data.replace("published: true", "published: false")
+  }
+
+  fs.writeFileSync(`./docs/_suspects/${dashName}.md`, data.toString());
 
   console.log(result.status)
 }
