@@ -19,5 +19,5 @@ author: seditiontrack
 published: true
 ---
 
-- [News Report: Arrest](https://www.chicagotribune.com/news/criminal-justice/ct-chicago-man-charged-us-capitol-riot-20210113-jblarjpwmbaapo6dvw6pufvq5y-story.html)
+- [News Report: Arrest](https://chicago.suntimes.com/2021/1/13/22229436/chicago-man-facing-federal-charges-following-last-weeks-u-s-capitol-riot)
 - [Complaint](https://www.chicagotribune.com/news/criminal-justice/ct-kevin-lyons-criminal-complaint-20210113-4dvhuyfqbbcxvllazn2rmeg4qi-htmlstory.html#nt=interstitial-manual)
