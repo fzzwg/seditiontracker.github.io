@@ -9,7 +9,7 @@ occupation:
 affiliations:
 jurisdiction: Federal
 before: 028.jpg
-after:
+after: peter-stager.jpg
 layout: suspect
 title: Peter Stager charged on January 14, 2021
 image: https://seditiontracker.com/images/preview/028.jpg
