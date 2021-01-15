@@ -22,4 +22,4 @@ published: true
 
 - [News Report](https://www.vice.com/en/article/epdmva/a-proud-boy-in-disguise-helped-lead-the-insurrection-at-the-capitol)
 - [VIDEO](https://twitter.com/BGOnTheScene/status/1346904244008456193)
-- [Affadavit](https://www.justice.gov/opa/page/file/1355186/download)
+- [Affidavit](https://www.justice.gov/opa/page/file/1355186/download)

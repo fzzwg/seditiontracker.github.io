@@ -24,7 +24,7 @@ published: true
 - [Information]()
 - [Statement of Facts]()
 - [Complaint]()
-- [Affadavit]()
+- [Affidavit]()
 - [Court Appearance]()
 - [Perp Walk]()
 - [Self Incrimination]()
