@@ -1,10 +1,10 @@
 ---
 name: Dominic Pezzola
 aka: Spaz
-residence:
+residence: New York
 status: Charged
 date: 2021-01-15
-age:
+age: 43
 occupation:
 affiliations: Proud Boys
 jurisdiction: Federal
@@ -14,7 +14,8 @@ layout: suspect
 title: Dominic Pezzola charged on January 15, 2021
 image: https://seditiontracker.com/images/preview/033.jpg
 description: Click for latest case details. Suspects considered innocent until proven guilty.
-quote:
+quote: "Victory smoke in the Capitol, boys. This is
+fucking awesome. I knew we could take this motherfucker over [if we] just tried hard enough."
 author: seditiontrack
 published: true
 ---
