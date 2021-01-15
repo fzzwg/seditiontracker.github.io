@@ -19,4 +19,4 @@ author: seditiontrack
 published: true
 ---
 
-- [News Report](https://abc13.com/spring-man-capitol-riot-josh-lollar-joshua-charged-us-protest/9689137/)
+- [News Report](https://www.nwitimes.com/news/update-hammond-man-charged-by-feds-in-capitol-siege/article_3e13f9f1-f6f3-5034-a712-5bbf2f80eb9f.html)
