@@ -21,3 +21,4 @@ published: true
 
 - [News Report](https://www.politico.com/news/2021/01/14/liberal-activist-charged-capitol-riot-459553)
 - [Complaint](https://extremism.gwu.edu/sites/g/files/zaxdzs2191/f/John%20Earle%20Sullivan%20Affidavit%20in%20Support%20of%20Criminal%20Complaint.pdf)
+- [DOJ Press Release](https://www.justice.gov/usao-dc/pr/utah-man-charged-federal-court-following-events-united-states-capitol)
