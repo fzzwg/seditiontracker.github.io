@@ -20,3 +20,4 @@ published: true
 ---
 
 - [News Report](https://www.thedailybeast.com/jenna-ryan-texas-real-estate-agent-who-flew-to-dc-on-private-jet-arrested-in-capitol-riots)
+- [Self Incrimination](https://twitter.com/NewsJunkieBlu/status/1347634376142630915?s=20)
