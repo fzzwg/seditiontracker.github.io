@@ -43,7 +43,7 @@ const newSuspect = async() => {
     {
       type: "input",
       name: "date",
-      message: "Date (YYYY-MM-DD)"
+      message: "Date (MM-DD)"
     },
     {
       type: "list",
@@ -61,7 +61,7 @@ const newSuspect = async() => {
 
   const template = readFile("./commands/common/template.md");
   const result = await inquirer.prompt(questions)
-  const date = Date.parse(`${result.date}T05:00`);
+  const date = Date.parse(`2021-${result.date}T05:00`);
   const options = { year: 'numeric', month: 'long', day: 'numeric' };
   const dateFormat = new Intl.DateTimeFormat('en-US', options).format(date)
   const dashName = result.name.replace(/\s/g, "-").toLowerCase();
