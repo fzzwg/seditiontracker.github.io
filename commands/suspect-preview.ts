@@ -21,7 +21,7 @@ for (const suspect of suspects) {
       case "CHARGED":
         return 185;
       case "INDICTED":
-        return 200;
+        return 205;
       default:
         return 200;
     }
