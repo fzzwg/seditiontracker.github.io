@@ -19,4 +19,4 @@ author: seditiontrack
 published: true
 ---
 
-- [News Report](https://www.gannett-cdn.com/presto/2021/01/16/PMJS/5d495ece-0e7d-4d5b-9ffe-cf0cca898799-david_mish_video_still.PNG?width=660&height=300&fit=crop&format=pjpg&auto=webp)
+- [News Report](https://www.jsonline.com/story/news/local/2021/01/15/david-charles-mish-west-allis-wisconsin-charged-capitol-riot/4186655001/gs)
