@@ -9,7 +9,7 @@ occupation:
 affiliations:
 jurisdiction: Federal
 before: 042.jpg
-after:
+after: jack-griffith.png
 layout: suspect
 title: Jack Griffith charged on January 16, 2021
 image: https://seditiontracker.com/images/preview/042.jpg
