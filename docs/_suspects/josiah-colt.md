@@ -8,7 +8,7 @@ age:
 affiliations:
 jurisdiction: Federal
 before: 016.jpg
-after:
+after: josiah-colt.png
 layout: suspect
 title: Josiah Colt charged on January 12, 2021
 image: https://seditiontracker.com/images/preview/016.jpg
