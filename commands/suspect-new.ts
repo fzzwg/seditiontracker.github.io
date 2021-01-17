@@ -84,7 +84,7 @@ const newSuspect = async() => {
 
   fs.writeFileSync(`./docs/_suspects/${dashName}.md`, data.toString());
 
-  console.log(result.status)
+  console.log(result.status);
 }
 
 newSuspect();
