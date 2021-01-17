@@ -9,7 +9,7 @@ occupation:
 affiliations:
 jurisdiction: Federal
 before: 053.png
-after:
+after: chad-jones.jpg
 layout: suspect
 title: Chad Jones charged on January 17, 2021
 image: https://seditiontracker.com/images/preview/053.png
