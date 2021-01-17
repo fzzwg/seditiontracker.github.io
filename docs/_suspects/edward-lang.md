@@ -9,7 +9,7 @@ occupation:
 affiliations:
 jurisdiction: Federal
 before: 051.jpg
-after:
+after: edward-lang.png
 layout: suspect
 title: Edward Lang charged on January 16, 2021
 image: https://seditiontracker.com/images/preview/051.jpg
