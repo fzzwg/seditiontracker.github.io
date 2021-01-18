@@ -5,8 +5,8 @@ residence: Ohio
 status: Charged
 date: 2021-01-17
 age: 50
-occupation:
-affiliations: Oath Keepers, Ohio State Regular Militia
+occupation: Former U.S. Military (Marines)
+affiliations: Oath Keepers, Ohio Regular Militia
 jurisdiction: Federal
 before: 024.jpg
 after: donovan-crowl.png
