@@ -20,6 +20,7 @@ published: true
 ---
 
 - [News Report](https://www.thedailybeast.com/cowboys-for-trump-leader-couy-griffin-arrested-by-fbi-for-capitol-riot-threat-to-bring-guns-to-inauguration?via=twitter_page)
-- [Perp Walk](https://twitter.com/TomLynch_/status/1350938023450570752?s=20)
+- [Perp Walk (Image)](/images/after/couy-griffin.png)
+- [Perp Walk (VIDEO)](https://www.nbcwashington.com/news/local/new-mexico-county-commissioner-arrested-in-dc-for-involvement-in-capitol-riot/2544645/)
 - [Criminal Complaint](https://www.scribd.com/document/491071187/Griffin-Complaint-0#fullscreen)
 - [Self Incrimination](https://kvia.com/your-voice-your-vote/new-mexico-politics/2021/01/14/cowboys-for-trump-leader-who-was-present-at-capitol-riot-says-hell-go-to-dc-for-inauguration-with-his-guns/)
