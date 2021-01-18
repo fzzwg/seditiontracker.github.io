@@ -23,3 +23,4 @@ published: true
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356076/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1356071/download)
 - [Self Incrimination](https://www.thegazette.com/subject/news/government/capitol-mob-protesters-trump-election-jan-6-leo-kelly-cedar-rapids-20210111)
+- [Senate Floor (VIDEO)](https://twitter.com/Cleavon_MD/status/1351269879890944006?s=20)
