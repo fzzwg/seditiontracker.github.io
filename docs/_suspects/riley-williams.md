@@ -9,7 +9,7 @@ occupation:
 affiliations:
 jurisdiction: Federal
 before: 055.jpg
-after:
+after: riley-williams.png
 layout: suspect
 title: Riley Williams charged on January 17, 2021
 image: https://seditiontracker.com/images/preview/055.jpg
