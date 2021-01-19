@@ -4,7 +4,7 @@ status: Charged
 date: 2021-01-07
 age: 34
 residence: Hawaii
-affiliations: Proud Boys
+affiliations: Proud Boys, Murder the Media
 jurisdiction: Federal
 before: 006.jpg
 layout: suspect

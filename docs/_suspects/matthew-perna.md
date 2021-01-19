@@ -22,3 +22,4 @@ published: true
 - [News Report](https://www.post-gazette.com/news/crime-courts/2021/01/19/Western-Pennsylvania-charged-US-Capitol-riot-insurrection-matthew-perna-jorden-mink/stories/202101190125)
 - [Statement of Facts](https://www.justice.gov/opa/page/file/1356831/download)
 - [Complaint](https://www.justice.gov/opa/page/file/1356826/download)
+- [Self Incrimination (Interview)](https://www.ncnewsonline.com/news/local_news/fbi-agents-meet-with-sharpsville-resident/article_fa8fe7f9-62fc-5363-8d22-9e13ea81b1e1.html)
