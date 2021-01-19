@@ -1,18 +1,18 @@
 ---
-name: Mark Sahady
+name: Suzanne Ianni
 aka:
 residence: Massachusetts
 status: Charged
 date: 2021-01-19
-age: 46
+age: 59
 occupation:
 affiliations: Super Happy Fun America (anti-LQBTQ group)
 jurisdiction: Federal
-before: 073.jpg
+before: 074.jpg
 after:
 layout: suspect
-title: Mark Sahady charged on January 19, 2021
-image: https://seditiontracker.com/images/preview/073.jpg
+title: Suzanne Ianni charged on January 19, 2021
+image: https://seditiontracker.com/images/preview/074.jpg
 description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
