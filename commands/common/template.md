@@ -13,7 +13,7 @@ after: [mugShot]
 layout: suspect
 title: [name] [action] on [longDate]
 image: https://seditiontracker.com/images/preview/[id].jpg
-description: Click for latest case details. Suspects considered innocent until proven guilty.
+description: Click for latest case details. Suspects innocent until proven guilty.
 quote:
 author: seditiontrack
 published: true
