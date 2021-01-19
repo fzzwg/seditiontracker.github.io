@@ -18,3 +18,5 @@ quote: "Maybe I smoked some cigarettes, maybe I spat on a riot officer. Maybe I 
 author: seditiontrack
 published: true
 ---
+
+- [Self Incrimination](https://www.rawstory.com/nick-decarlo/)
