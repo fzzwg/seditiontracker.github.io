@@ -21,3 +21,4 @@ published: true
 
 - [News Report](https://losangeles.cbslocal.com/2021/01/19/beverly-hills-salon-owner-gina-bisignano-2-others-arrested-for-capitol-riots/)
 - [Self Incrimination (Interview)](https://www.washingtonpost.com/investigations/simone-gold-capitol-riot-coronavirus/2021/01/12/d1d39e84-545f-11eb-a817-e5e7f8a406d6_story.html)
+- [FBI Statement (Twitter)](https://twitter.com/FBILosAngeles/status/1351604985210040326?s=20)
