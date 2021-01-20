@@ -1,0 +1,24 @@
+---
+layout: default
+title: All suspects
+---
+
+<h1>{{ page.title }}</h1>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Residence</th>
+    <th>Status</th>
+    <th>Date</th>
+  </tr>
+  {% assign suspects_by_date = site.suspects | sort: "date" | reverse %}
+  {% for suspect in suspects_by_date %}
+  <tr>
+    <td><a href="{{ suspect.url }}">{{ suspect.name }}</a></td>
+    <td>{{ suspect.residence }}</td>
+    <td class={{ suspect.status | downcase }}>{{ suspect.status }}</td>
+    <td>{{ suspect.date | date: "%Y-%m-%d" }}</td>
+  </tr>
+  {% endfor %}
+</table>
